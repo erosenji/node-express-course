@@ -38,6 +38,8 @@ res.json({
 }
 })
 
+//need to add a new method 
+
 // output user and message 
 app.get('/users',function(req,res){
     res.json({
